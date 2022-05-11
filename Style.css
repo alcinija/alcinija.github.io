@@ -1,0 +1,43 @@
+/* Document */
+* {
+    text-align: center;
+}
+
+/* Headings (1) */
+h1 {
+    text-decoration: underline;
+}
+
+/* Info Heading */
+#info {
+    border-style: solid;
+}
+
+#description {
+    border-left-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+}
+
+table {
+    border-style: solid;
+}
+
+/* Directions Heading */
+#trip {
+    border-style: dashed;
+}
+
+/* History Heading */
+#database {
+    border-style: dashed;
+}
+
+tr {
+    border-style: dashed;
+}
+
+/* Paragraphs */
+p {
+    text-size-adjust: 48px;
+}
